@@ -26,6 +26,8 @@ pip install selenium webdriver-manager
 ---
 
 ## Configuração do Ambiente Virtual (.venv)
+## Por que usar um ambiente virtual?
+Ambientes virtuais isolam as dependências do seu projeto, evitando conflitos entre pacotes de diferentes projetos.
 
 Passo a passo para criar e usar um ambiente virtual:
 
